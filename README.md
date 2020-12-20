@@ -7,5 +7,6 @@
 - Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+Note: train and save all your models and use them for your exam
 3. Puchase for your exam in [Register for the exam](https://www.tensorflow.org/certificate)
 4. Setup and take your exam!
