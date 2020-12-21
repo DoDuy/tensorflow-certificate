@@ -9,4 +9,6 @@
 - Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 Note: train and save all your models and use them for your exam
 3. Puchase for your exam in [Register for the exam](https://www.tensorflow.org/certificate)
-4. Setup and take your exam!
+4. Read [TensorFlow Developer Certificate Candidate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf)
+5. Setup pyCharm and environment by [Set up your environment to take the TensorFlow Developer Certificate Exam](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf)
+6. Take your exam
