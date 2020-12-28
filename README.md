@@ -17,5 +17,6 @@ Note: train and save all your models and use them for your exam
 - You have 5 questions and you must train and submit 5 models
 - Each question will be score max of 5 points
 ### III. Passed your exam
-- You will receive an email from trueability
+- You will receive an email from trueability, fill your form in that email
 - Check your exam status on trueability website
+Note: I recieved my certificate after x day
