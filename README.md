@@ -14,7 +14,7 @@ Note: train and save all your models and use them for your exam
 6. Read [instruction](https://utility.trueability.com/google/tensor-flow/Instructions_for_taking_the_TensorFlow_Certificate_exam.pdf)
 ### II. Take your exam
 - The exam will take in 5 hours
-- You have 5 questions and you must train and submit 5 models
+- You have 5 questions and you must train and submit 5 models, I trained some on Google Colab
 - Each question will be score max of 5 points
 ### III. Passed your exam
 - You will receive an email from trueability, fill your form in that email
