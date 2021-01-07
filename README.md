@@ -13,7 +13,7 @@ Note: train and save all your models and use them for your exam
 5. Setup pyCharm and environment [Set up your environment to take the TensorFlow Developer Certificate Exam](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf)
 6. Read [instruction](https://utility.trueability.com/google/tensor-flow/Instructions_for_taking_the_TensorFlow_Certificate_exam.pdf)
 ### II. Take your exam
-- The exam will take in 5 hours (I take in about 100 minutes)
+- The exam will take in 5 hours (I take it in about 100 minutes)
 - You have 5 questions and you must train and submit 5 models, I trained some on Google Colab
 - Each question will be score max of 5 points
 ### III. Passed your exam
