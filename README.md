@@ -19,4 +19,4 @@ Note: train and save all your models and use them for your exam
 ### III. Passed your exam
 - You will receive an email from trueability, fill your form in that email
 - Check your exam status on trueability website\
-Note: I recieved my certificate after x day
+Note: I recieved [my certificate](https://www.credential.net/6ace29f6-42fb-4547-8b05-4701c7355d0c) after 3 day
